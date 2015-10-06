@@ -1,0 +1,47 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+127.0.0.1 www.facebook.com
+127.0.0.1 facebook.com
+127.0.0.1 static.ak.fbcdn.net
+127.0.0.1 www.static.ak.fbcdn.net
+127.0.0.1 login.facebook.com
+127.0.0.1 www.login.facebook.com
+127.0.0.1 fbcdn.net
+127.0.0.1 www.fbcdn.net
+127.0.0.1 fbcdn.com
+127.0.0.1 www.fbcdn.com
+127.0.0.1 static.ak.connect.facebook.com
+127.0.0.1 www.static.ak.connect.facebook.com
+127.0.0.1 vkontakte.ru
+127.0.0.1 www.vkontakte.ru
+127.0.0.1 vk.com
+127.0.0.1 www.vk.com
+127.0.0.1 durov.ru
+127.0.0.1 www.durov.ru
+127.0.0.1 macrumors.com
+127.0.0.1 deepapple.com
+127.0.0.1 ixbt.com
+127.0.0.1 techcrunch.com
+127.0.0.1 9to5mac.com
+127.0.0.1 appleinsider.com
+127.0.0.1 theverge.com
+127.0.0.1 youtube.com
+127.0.0.1 www.macrumors.com
+127.0.0.1 www.deepapple.com
+127.0.0.1 www.ixbt.com
+127.0.0.1 www.9to5mac.com
+127.0.0.1 www.appleinsider.com
+127.0.0.1 www.theverge.com
+127.0.0.1 www.youtube.com
+127.0.0.1 www.twitter.com
+127.0.0.1 twitter.com
+
+# add your own destinations of interest …
+127.0.0.1 whatever.com
