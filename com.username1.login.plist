@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.sergpolly.login</string>
+    <string>com.username1.login</string>
 
     <!-- Run at launch and never repeat .... -->
     <key>KeepAlive</key>
