@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.openuser.login</string>
+
+    <!-- Run at launch and never repeat .... -->
+    <key>KeepAlive</key>
+    <false/>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>LaunchOnlyOnce</key>
+    <true/>
+
+
+    <!-- Run as root, hopefully (useless for agents ...) -->
+    <!-- <key>UserName</key> -->
+    <!-- <string>sergpolly</string> -->
+
+    <!-- Debugging will help probably ... -->
+    <key>StandardOutPath</key>
+    <string>/Users/Shared/olog.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/Shared/olog.log</string>
+    <key>Debug</key>
+    <true/>
+
+
+	<!-- Script to launch and arguments ... -->
+    <key>ProgramArguments</key>
+    <array>
+            <string>/Users/Shared/agent_open.sh</string>
+            <!-- <string>fst_argument</string> -->
+            <!-- <string>snd_argument</string> -->
+    </array>
+</dict>
+</plist>
+
